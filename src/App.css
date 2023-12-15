@@ -12,7 +12,7 @@ div{
 }
 
 #quote-box{
-  background-color: gray;
+  background-color: white;
   border-radius: 5px;
   position: relative;
   width: 450px;
@@ -42,7 +42,7 @@ button, a {
   width: fit-content;
   font-weight: 500;
   
-  border-color: black;
+  border-color: white;
   cursor: pointer;
   font-family: inherit;
   font-size: 1em;
@@ -51,9 +51,12 @@ button, a {
 button{
   float: right;
   border: 1px solid transparent;
+  color: white;
+  border-radius: 5%;
 }
 
 a{
   float:left;
 
 }
+
