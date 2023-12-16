@@ -83,6 +83,7 @@ function App() {
             </button>
           </div>
         </div>
+        <span>Nikita Obergan</span>
       </div>
     </div>
   );
